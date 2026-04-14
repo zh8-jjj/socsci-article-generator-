@@ -1,0 +1,5 @@
+{
+  "name": "AI 知识库内容生产引擎",
+  "description": "帮助知识库创作者批量生成文章、提炼书籍资料，并一键导出为 Markdown 压缩包的自动化工具。",
+  "requestFramePermissions": []
+}
